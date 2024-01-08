@@ -1,2 +1,2 @@
-export * from './PreviousGuesses';
-export { default } from './PreviousGuesses';
+export * from "./GuessResults";
+export { default } from "./GuessResults";
